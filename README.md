@@ -1,2 +1,2 @@
-# leetcode_c-
+# leetcode_c++
 leetcode question in  c++
